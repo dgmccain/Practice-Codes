@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\david\desktop\practice codes\cproject4\cproject4\source.c(25): warning C4013: 'system' undefined; assuming extern returning int
+  CProject4.vcxproj -> C:\Users\david\Desktop\Practice Codes\CProject4\Debug\CProject4.exe
