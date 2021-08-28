@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\david\desktop\cppprojects\movietheaterproject\movietheaterproject\source.cpp(50): warning C4101: 'contKey': unreferenced local variable
+  MovieTheaterProject.vcxproj -> C:\Users\david\Desktop\CppProjects\MovieTheaterProject\Debug\MovieTheaterProject.exe

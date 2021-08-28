@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\david\desktop\project1\project1\main.c(35): warning C4101: 'c': unreferenced local variable
+c:\users\david\desktop\project1\project1\main.c(33): warning C4101: 'ch': unreferenced local variable
+c:\users\david\desktop\project1\project1\main.c(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\project1\project1\main.c(238): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\david\desktop\project1\project1\main.c(243): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\david\desktop\project1\project1\main.c(146): warning C4715: 'priority': not all control paths return a value
+  Project1.vcxproj -> C:\Users\david\Desktop\Project1\Debug\Project1.exe
